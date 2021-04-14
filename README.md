@@ -1,3 +1,3 @@
-# React Twitch Clone
+# React Twitch Clone - Client
 
-This project is a Twitch clone built with React, Redux and Redux Form
+This is the React part of the Twitch clone project
